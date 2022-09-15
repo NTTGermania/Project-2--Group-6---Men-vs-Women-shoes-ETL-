@@ -16,12 +16,12 @@
 <p> 1. Extract CSVs into Dataframes.<p> 
 <p> 2. Set catogory column to "Women" in women's shoes dataframe.<p>
 <p> 3. Set Category column to "Men" in Men's shoes dataframe. <p>
-<p> 4. Transform both dataframes by renaming selecting needed columns and renaming them.<p>
-<p> 5. Merge dataframes<p>
-<p> 6. Create database and shemas in postgresql<p>
-<p> 7. Create Database Connection<p>
-<p> 8. Confirm tables<p>
-<p> 9. Load Dataframes into Database <p>
+<p> 4. Transform both dataframes by  selecting needed columns and renaming them.<p>
+<p> 5. Merge dataframes.<p>
+<p> 6. Create database and shemas in postgreSQL<p>
+<p> 7. Create Database Connection.<p>
+<p> 8. Confirm tables.<p>
+<p> 9. Load Dataframes into Database.<p>
 
 
 
