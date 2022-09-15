@@ -12,15 +12,16 @@
 <p>https://data.world/datafiniti/mens-shoe-prices <p>
 <br>
 <h3>Process:<h3>
-<p> Extract CSVs into Dataframes.<p> 
-<p>Set catogory column to "Women" in women's shoes dataframe.<p>
-<p>Set Category column to "Men" in Men's shoes dataframe. <p>
-<p>Transform both dataframes by renaming selecting needed columns and renaming them.<p>
-<p>Merge dataframes<p>
-<p>Create database and shemas in postgresql>
-<p>Create Database Connection<p>
-<p>Confirm tables<p>
-<p>Load Dataframes into Database <p>
+<ol>
+<p> 1. Extract CSVs into Dataframes.<p> 
+<p> 2. Set catogory column to "Women" in women's shoes dataframe.<p>
+<p> 3. Set Category column to "Men" in Men's shoes dataframe. <p>
+<p> 4. Transform both dataframes by renaming selecting needed columns and renaming them.<p>
+<p> 5. Merge dataframes<p>
+<p> 6. Create database and shemas in postgresql<p>
+<p> 7. Create Database Connection<p>
+<p> 8. Confirm tables<p>
+<p> 9. Load Dataframes into Database <p>
 
 
 
