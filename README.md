@@ -13,18 +13,27 @@
 <br>
 <h3>Process:<h3>
 <ol>
-<p> 1.Create & clone a repository<p
-<p> 2. Download and add csv files to reporsitory<p>
-<p> 3. open repository in a jupyter notebook<p>
+<p> 1.Create & clone a repository.<p
+<p> 2. Download and add csv files to repository.<p>
+<p> 3. open repository in a jupyter notebook.<p>
 <p> 4. Extract CSVs into Dataframes.<p> 
-<p> 5. Set catogory column to "Women" in women's shoes dataframe.<p>
+<p> 5. Set category column to "Women" in women's shoes dataframe.<p>
 <p> 6. Set Category column to "Men" in Men's shoes dataframe. <p>
 <p> 7. Transform both dataframes by  selecting needed columns and renaming them.<p>
 <p> 8. Merge dataframes.<p>
-<p> 9. Create database and shemas in postgreSQL<p>
-<p> 10. Create Database Connection.<p>
-<p> 11. Confirm tables.<p>
-<p> 12. Load Dataframes into Database.<p>
+<p> 9. Drop all NaN values.<p>
+<p> 10. Convert values in prices_min and prices_max to type numeric, and filter and drop any non-numeric values.<p>
+<p> 11. Create brand id column and fill with unique values based on the brand name column.<p
+<p> 12. Reset, but keep dataframe index!<p>
+<p> 13. Create a brand dataframe using the brand id and brand name columns.<p>
+<p> 14. Rename brand_id column to id in brand dataframe.<p>
+<p> 15. Drop all duplicates from brand dataframe.<p>
+<p> 16. Create shoe data dataframe using id, brand_id,  category, prices_min, and prices_max columns from merged dataframe.<p>
+<p> 17. Drop all duplicates from brand_id column in the newly created dataframe.<p>
+<p> 18. Create database and shemas in postgreSQL.<p>
+<p> 19. Create Database Connection.<p>
+<p> 20. Confirm tables.<p>
+<p> 21. Load Dataframes into Database.<p>
 
 
 
