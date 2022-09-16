@@ -14,7 +14,7 @@
 <h2>Process<h2>
 <p> Clone the repository and do the following:<p>
 <p>1. Navigate to the cloned repo and open up a terminal(mac) or gitbash(pc).<p>
-<p>2. Type source activate PythonData38  or conda activate and then hit ENTER<p>
+<p>2. Ensure sqlachemy is present in your environments<p>
 <p>3. Open Data_html.<p>
 <p>4. Restart and clear kernel. Choose (Python 3 (ipykernel)<p>
 <p>5. Open pgAdmin and select the shoe_data_complete_db.p>
