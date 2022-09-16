@@ -11,7 +11,7 @@
 <p>https://data.world/datafiniti/womens-shoe-prices<p>
 <p>https://data.world/datafiniti/mens-shoe-prices <p>
 <br>
-<h2>Follow these instructions to run the code succesfully.<h2>
+<h2>Follow these instructions to run the code succesfully:<h2>
 <br>
 <p> Clone the repository and do the following:<p>
 <p>1. Navigate to the cloned repo and open up a terminal(mac) or gitbash(pc).<p>
