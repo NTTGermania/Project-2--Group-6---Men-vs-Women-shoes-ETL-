@@ -16,7 +16,7 @@
 <p> Clone the repository and do the following:<p>
 <p>1. Navigate to the cloned repo and open up a terminal(mac) or gitbash(pc).<p>
 <p>2. Ensure sqlachemy is present in your environments<p>
-<p>3. Open the data_html folder and then open the pandas_etl.ipynb file.<p>
+<p>3. Open the data_cleaning folder and then open the pandas_etl.ipynb file.<p>
 <p>4. Restart and clear kernel and choose (Python 3 (ipykernel)<p>
 <p>5. Open pgAdmin and select the shoe_data_complete_db.<p>
 <p>6. From shoe_data_complete_db, open up a query tool. <p>
