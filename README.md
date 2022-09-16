@@ -11,7 +11,7 @@
 <p>https://data.world/datafiniti/womens-shoe-prices<p>
 <p>https://data.world/datafiniti/mens-shoe-prices <p>
 <br>
-<h2>Follow these instructions to run the code succesfully:<h2>
+<h2>Follow these instructions to run the codes succesfully:<h2>
 <br>
 <p> Clone the repository and do the following:<p>
 <p>1. Navigate to the cloned repo and open up a terminal(mac) or gitbash(pc).<p>
@@ -22,7 +22,7 @@
 <p>6. From shoe_data_complete_db, open up a query tool. <p>
 <p>7. In the query tool, open the file and then select shoe_query sql file.<p>
 <p>8. Run the file.<p>
-<p>9. There will be two tables called brand and shoe_data_table. <p>
+<p>9. There will be two populated tables called brand and shoe_data_table. <p>
 
 
 
