@@ -13,15 +13,18 @@
 <br>
 <h3>Process:<h3>
 <ol>
-<p> 1. Extract CSVs into Dataframes.<p> 
-<p> 2. Set catogory column to "Women" in women's shoes dataframe.<p>
-<p> 3. Set Category column to "Men" in Men's shoes dataframe. <p>
-<p> 4. Transform both dataframes by  selecting needed columns and renaming them.<p>
-<p> 5. Merge dataframes.<p>
-<p> 6. Create database and shemas in postgreSQL<p>
-<p> 7. Create Database Connection.<p>
-<p> 8. Confirm tables.<p>
-<p> 9. Load Dataframes into Database.<p>
+<p> 1.Create & clone a repository<p
+<p> 2. Download and add csv files to reporsitory<p>
+<p> 3. open repository in a jupyter notebook<p>
+<p> 4. Extract CSVs into Dataframes.<p> 
+<p> 5. Set catogory column to "Women" in women's shoes dataframe.<p>
+<p> 6. Set Category column to "Men" in Men's shoes dataframe. <p>
+<p> 7. Transform both dataframes by  selecting needed columns and renaming them.<p>
+<p> 8. Merge dataframes.<p>
+<p> 9. Create database and shemas in postgreSQL<p>
+<p> 10. Create Database Connection.<p>
+<p> 11. Confirm tables.<p>
+<p> 12. Load Dataframes into Database.<p>
 
 
 
