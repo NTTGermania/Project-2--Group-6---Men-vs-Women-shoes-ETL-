@@ -1,4 +1,4 @@
-<h1>Cost comparison of Men's and Women's shoes project<h1>
+<h1>Cost comparison of Men's and Women's shoes per brand <h1>
 <h3>GROUP 6: Hyeeun Hughes, Alan Jallah, Nhan Tran<h3>
 <br>
 
